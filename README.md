@@ -3,7 +3,7 @@
 
 I'm a Statistics and Data Science student at UCLA. I like projects where the question comes first, and the model has to earn its place: check the assumptions, justify the transformations, and say plainly what the results do and don't show.
 
-**Tools:** R, Quarto, Python, SQK
+**Tools:** R, Quarto, Python, SQL
 
 ## Selected projects
 
